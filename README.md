@@ -25,9 +25,7 @@ O objetivo do projeto é praticar conceitos básicos de programação estruturad
 
 O consumo mensal é calculado utilizando a seguinte fórmula:
 
-```text
 consumoMensal = (potencia × horasDia × 30) / 1000
-```
 
 ## ▶️ Como executar
 
@@ -36,8 +34,6 @@ consumoMensal = (potencia × horasDia × 30) / 1000
 3. Abra o terminal.
 4. Execute o comando:
 
-```bash
 python app.py
-```
 
 5. Informe o nome do aparelho, a potência em watts e o tempo médio de uso diário.
