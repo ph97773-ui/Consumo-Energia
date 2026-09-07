@@ -28,13 +28,18 @@ O consumo mensal é calculado utilizando a seguinte fórmula:
 ```text
 consumoMensal = (potencia × horasDia × 30) / 1000
 
+consumoMensal = (potencia × horasDia × 30) / 1000
+```
+
 ## ▶️ Como executar
 
 1. Instale o Python.
 2. Abra a pasta do projeto no Visual Studio Code.
 3. Abra o terminal.
 4. Execute o comando:
-```bash
-python app.py
 
-```text Informe o nome do aparelho, a potência em watts e o tempo médio de uso diário.
+```bash     
+python app.py
+```
+
+5. Informe o nome do aparelho, a potência em watts e o tempo médio de uso diário.
