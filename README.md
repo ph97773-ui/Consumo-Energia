@@ -28,6 +28,7 @@ O consumo mensal é calculado utilizando a seguinte fórmula:
 ```text
 consumoMensal = (potencia × horasDia × 30) / 1000
 ```
+
 ## ▶️ Como executar
 
 1. Instale o Python.
